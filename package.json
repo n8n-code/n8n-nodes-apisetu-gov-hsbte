@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-apisetu-gov-hsbte",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "HSBTE issues Dec 2017 and June 2018 marksheets via DigiLocker for student retrieval.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-apisetu-gov-hsbte",
